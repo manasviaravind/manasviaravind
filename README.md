@@ -1,4 +1,6 @@
-## Hi there 👋
+This is my first git repository
+<br>
+Author-Manasvi Aravind Rapaka
 
 <!--
 **manasviaravind/manasviaravind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
